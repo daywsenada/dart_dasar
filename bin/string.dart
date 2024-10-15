@@ -18,7 +18,7 @@ var fullName = '$firstName ${lastName}';
 print(fullName);
 
 
-//karakter backlash
+//karakter backslash
 var text = 'this is \'dart\' \$cool';
 print(text);
 

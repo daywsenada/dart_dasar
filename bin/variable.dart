@@ -1,6 +1,6 @@
 void main(){ 
 
-//tanpa variabel
+//tanpa variable
 print('Day Wsenada Art');
 print('Day Wsenada Art');
 print('Day Wsenada Art');
@@ -20,10 +20,10 @@ print(name);
 //deklarasi variable langsung
 String name = 'Day Wsenada Art';
 
-print (name);
-print (name);
-print (name);
-print (name);
+print(name);
+print(name);
+print(name);
+print(name);
 
 
 //kata kunci var
