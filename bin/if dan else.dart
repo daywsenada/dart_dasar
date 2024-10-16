@@ -15,7 +15,7 @@ var nilai = 70;
 
   if(nilai >= 75 && absen >= 75) {
     print('Anda Lulus');
-  } else {
+  } else{
     print('Anda Tidak Lulus');
   }
 
