@@ -6,7 +6,7 @@ void main(){
 
   if(nilai >= 75) {
     ucapan = 'Selamat Anda Lulus';
-  } else {
+  } else{
     ucapan = 'Silahkan Coba Lagi';
   }
   
